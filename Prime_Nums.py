@@ -1,5 +1,3 @@
-
-
 def find_primes (self):
     max_num = self
     prime_nums = []
